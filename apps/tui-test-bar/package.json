@@ -8,5 +8,8 @@
   },
   "repository": "https://github.com/codepink/lerna-test/tree/master/apps/tui-test-bar",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tui-test-foo": "^1.0.0"
+  }
 }

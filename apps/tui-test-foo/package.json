@@ -1,6 +1,6 @@
 {
   "name": "tui-test-foo",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "repository": "https://github.com/codepink/lerna-test/tree/master/apps/tui-test-foo",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "aaf409a69e25b4bf6e241ab7ba5809ab4a34af3b"
 }

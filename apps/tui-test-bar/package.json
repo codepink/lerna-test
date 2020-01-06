@@ -1,6 +1,6 @@
 {
   "name": "@codepink/tui-test-bar",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "tui-test-foo": "^1.0.2"
-  }
+  },
+  "gitHead": "aaf409a69e25b4bf6e241ab7ba5809ab4a34af3b"
 }
